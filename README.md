@@ -166,3 +166,4 @@ To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [
 Alternatively, you can deploy using our template by clicking on the Deploy button below.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/cms-sanity&project-name=cms-sanity&repository-name=cms-sanity&env=NEXT_PUBLIC_SANITY_PROJECT_ID,SANITY_API_TOKEN,SANITY_PREVIEW_SECRET&envDescription=Required%20to%20connect%20the%20app%20with%20Sanity&envLink=https://vercel.link/cms-sanity-env)
+# cms-sanity
